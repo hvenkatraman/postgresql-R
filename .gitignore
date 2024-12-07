@@ -1,0 +1,5 @@
+pg_xlog/
+pg_wal/
+*.pid
+*.lock
+*.log
